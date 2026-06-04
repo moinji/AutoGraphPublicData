@@ -30,7 +30,7 @@ Demo URL: 준비 중
 
 ### 3. 추천 시연 데이터
 
-가장 안정적인 시연을 위해 `accounting` 데이터를 권장합니다.
+다중 홉 질의 시연을 위해 `accounting` 데이터를 권장합니다.
 
 ```text
 DDL: examples/schemas/demo_accounting.sql
