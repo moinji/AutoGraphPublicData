@@ -1,0 +1,10 @@
+﻿id,project_id,employee_id,role
+1,1,5,lead
+2,1,6,developer
+3,1,7,developer
+4,2,12,lead
+5,3,8,lead
+6,3,6,member
+7,4,11,lead
+8,4,10,member
+9,5,3,lead

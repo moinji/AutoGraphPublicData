@@ -1,0 +1,4 @@
+﻿id,student_id,course_id,issued_date,cert_type
+1,1,2,2026-06-20,completion
+2,5,2,2026-06-20,completion
+3,3,5,2026-06-20,excellence

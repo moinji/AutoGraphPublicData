@@ -1,0 +1,7 @@
+id,drug_a_id,drug_b_id,severity,description
+1,1,6,mild,Atorvastatin과 Amlodipine 병용 시 근육통 위험 소폭 증가. 모니터링 권장
+2,5,8,moderate,Sitagliptin과 Sertraline 병용 시 저혈당 위험 증가. 혈당 모니터링 강화 필요
+3,2,7,severe,Amoxicillin과 Pembrolizumab 병용 시 면역반응 간섭 가능. 항암치료 중 항생제 변경 권고
+4,3,8,mild,Acetaminophen과 Sertraline 병용 시 출혈 위험 소폭 증가
+5,4,6,mild,Esomeprazole과 Amlodipine 병용 시 Amlodipine 혈중농도 약간 상승 가능
+6,1,5,moderate,Atorvastatin과 Sitagliptin 병용 시 간기능 검사 주기적 모니터링 필요

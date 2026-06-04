@@ -1,0 +1,6 @@
+﻿id,employee_id,leave_type,start_date,end_date,status,approved_by
+1,6,연차,2026-03-18,2026-03-18,approved,5
+2,7,병가,2026-03-20,2026-03-21,approved,5
+3,10,연차,2026-04-01,2026-04-03,pending,
+4,12,경조사,2026-03-25,2026-03-27,approved,4
+5,11,해외출장,2026-04-10,2026-04-15,approved,1

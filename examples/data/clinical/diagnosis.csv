@@ -1,0 +1,11 @@
+id,appointment_id,icd_code,disease_name,severity,notes
+1,1,I20.0,불안정 협심증,moderate,심전도상 ST 분절 변화 확인. 관상동맥조영술 필요
+2,2,J18.9,상세불명의 폐렴,moderate,흉부X선상 좌하엽 침윤 소견. 항생제 치료 시작
+3,3,K35.8,급성 충수염,severe,McBurney point 압통 양성. 응급 수술 필요
+4,4,I10,본태성 고혈압,mild,수축기 160mmHg 이상 반복 측정. 약물 치료 시작
+5,5,F90.0,주의력결핍 과잉행동장애,mild,K-ARS 점수 28점. 행동치료 병행 권고
+6,6,C50.9,유방암,severe,조직검사 결과 침윤성 유관암 확인. 병기 설정 필요
+7,7,G20,파킨슨병,moderate,안정 시 진전 및 서동증 확인. 도파민 검사 예정
+8,8,E11.9,제2형 당뇨병,moderate,공복혈당 186mg/dL. HbA1c 8.2%
+9,9,F33.1,반복성 우울장애 중등도 에피소드,moderate,PHQ-9 점수 18점. 약물 및 상담 치료 시작
+10,4,E78.5,상세불명의 고지혈증,mild,총콜레스테롤 268mg/dL. LDL 180mg/dL

@@ -1,0 +1,6 @@
+﻿id,appointment_id,medication_id,dosage,frequency,duration_days,notes
+1,1,1,1정,1일 2회 식전,14,
+2,2,2,1정,1일 3회 식후,7,통증 시 추가 복용 가능
+3,4,3,1캡슐,1일 3회 식후,5,
+4,4,4,10ml,1일 3회,5,
+5,5,5,1정,두통 발생 시,30,1일 2정 초과 금지

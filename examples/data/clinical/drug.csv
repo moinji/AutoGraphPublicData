@@ -1,0 +1,9 @@
+id,name,generic_name,category,manufacturer,unit_price,requires_prescription
+1,리피토정,Atorvastatin,고지혈증치료제,화이자,850.00,TRUE
+2,아목시실린캡슐,Amoxicillin,항생제,종근당,320.00,TRUE
+3,타이레놀정,Acetaminophen,해열진통제,한국존슨앤드존슨,150.00,FALSE
+4,넥시움정,Esomeprazole,위산분비억제제,한국아스트라제네카,1200.00,TRUE
+5,자누비아정,Sitagliptin,당뇨병치료제,한국MSD,1580.00,TRUE
+6,노바스크정,Amlodipine,고혈압치료제,화이자,450.00,TRUE
+7,키트루다주,Pembrolizumab,면역항암제,한국MSD,4500000.00,TRUE
+8,졸로프트정,Sertraline,항우울제,화이자,680.00,TRUE

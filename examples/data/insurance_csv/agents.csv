@@ -1,0 +1,6 @@
+﻿id,name,email,license_no,region
+1,김설계,agent.kim@insurance.co.kr,IA-2015-001,서울
+2,이설계,agent.lee@insurance.co.kr,IA-2017-002,경기
+3,박설계,agent.park@insurance.co.kr,IA-2018-003,부산
+4,최설계,agent.choi@insurance.co.kr,IA-2020-004,서울
+5,정설계,agent.jung@insurance.co.kr,IA-2019-005,대전

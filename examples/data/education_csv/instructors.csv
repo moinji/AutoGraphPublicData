@@ -1,0 +1,8 @@
+﻿id,name,email,department_id,title,hire_date
+1,김알고,algo.kim@univ.ac.kr,1,정교수,2010-03-01
+2,이데이터,data.lee@univ.ac.kr,1,부교수,2015-09-01
+3,박경영,mgmt.park@univ.ac.kr,2,정교수,2008-03-01
+4,최디자인,design.choi@univ.ac.kr,3,조교수,2020-03-01
+5,정수학,math.jung@univ.ac.kr,4,정교수,2005-09-01
+6,한영어,eng.han@univ.ac.kr,5,부교수,2012-03-01
+7,윤AI,ai.yoon@univ.ac.kr,1,조교수,2022-09-01

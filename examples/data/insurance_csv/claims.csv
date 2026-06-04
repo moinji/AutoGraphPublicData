@@ -1,0 +1,5 @@
+﻿id,claim_number,policy_id,policyholder_id,filed_date,incident_date,description,status,claimed_amount
+1,CLM-2026-001,1,1,2026-02-10,2026-02-05,교통사고 입원 치료,settled,3500000
+2,CLM-2026-002,3,2,2026-03-01,2026-02-28,유방암 진단,processing,50000000
+3,CLM-2026-003,7,6,2026-03-15,2026-03-14,감기 외래 진료,settled,85000
+4,CLM-2026-004,5,4,2026-03-20,2026-03-18,골절 입원,pending,2000000

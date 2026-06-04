@@ -1,0 +1,11 @@
+id,appointment_id,lab_test_id,order_date,result_value,result_status
+1,1,3,2024-01-15,268,abnormal
+2,1,6,2024-01-15,7200,normal
+3,2,8,2024-02-03,,abnormal
+4,4,1,2024-03-10,142,abnormal
+5,4,3,2024-03-10,268,abnormal
+6,6,6,2024-04-05,4800,normal
+7,7,6,2024-05-12,6100,normal
+8,8,1,2024-06-01,186,abnormal
+9,8,2,2024-06-01,8.2,abnormal
+10,8,4,2024-06-01,52,abnormal

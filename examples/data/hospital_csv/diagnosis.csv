@@ -1,0 +1,7 @@
+﻿id,appointment_id,icd_code,description,severity
+1,1,K29.7,위염,mild
+2,2,M17.1,무릎 골관절염,moderate
+3,3,Z00.1,소아 건강검진 정상,mild
+4,4,J06.9,급성 상기도 감염,moderate
+5,5,G43.9,편두통,moderate
+6,5,R42,어지러움,mild

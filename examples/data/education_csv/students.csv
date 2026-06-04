@@ -1,0 +1,9 @@
+﻿id,name,email,department_id,year,gpa
+1,학생A 김철수,cs.kim@univ.ac.kr,1,3,3.85
+2,학생B 이영희,yh.lee@univ.ac.kr,1,2,4.1
+3,학생C 박민수,ms.park@univ.ac.kr,2,4,3.45
+4,학생D 최지은,je.choi@univ.ac.kr,3,1,3.92
+5,학생E 정하늘,hn.jung@univ.ac.kr,1,3,3.6
+6,학생F 한서연,sy.han@univ.ac.kr,4,2,4.3
+7,학생G 윤준호,jh.yoon@univ.ac.kr,2,3,3.2
+8,학생H 송미래,mr.song@univ.ac.kr,5,1,3.75

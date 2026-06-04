@@ -1,0 +1,7 @@
+﻿id,name,category,duration_hours,skill_id
+1,Python 고급 과정,기술,40,1
+2,AWS Solutions Architect,기술,60,4
+3,애자일 프로젝트 관리,관리,16,5
+4,React 심화,기술,32,3
+5,리더십 워크숍,관리,8,8
+6,데이터 분석 입문,기술,24,6

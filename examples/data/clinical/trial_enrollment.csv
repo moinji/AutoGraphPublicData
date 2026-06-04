@@ -1,0 +1,9 @@
+id,patient_id,trial_id,enrollment_date,consent_signed,status
+1,8,1,2024-06-10,TRUE,active
+2,4,1,2024-03-20,TRUE,active
+3,6,2,2024-04-15,TRUE,active
+4,2,2,2024-03-05,TRUE,screening
+5,5,3,2024-04-01,TRUE,active
+6,1,4,2024-04-10,TRUE,active
+7,9,5,2024-07-01,TRUE,screening
+8,7,6,2024-06-01,TRUE,active

@@ -1,0 +1,13 @@
+﻿id,employee_id,skill_id,proficiency
+1,5,1,expert
+2,5,5,advanced
+3,6,1,advanced
+4,6,3,expert
+5,7,1,intermediate
+6,7,3,beginner
+7,8,6,advanced
+8,12,2,expert
+9,12,4,advanced
+10,11,7,expert
+11,4,8,expert
+12,9,5,advanced

@@ -1,0 +1,4 @@
+﻿id,patient_id,ward_id,doctor_id,admit_date,discharge_date,status,reason
+1,2,4,4,2026-03-17,2026-03-22,discharged,무릎 관절경 수술
+2,5,1,8,2026-03-18,,admitted,정밀 검사 및 관찰
+3,8,2,2,2026-03-20,2026-03-23,discharged,맹장 수술
