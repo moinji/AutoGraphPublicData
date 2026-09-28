@@ -1,9 +1,12 @@
 # macOS
 .DS_Store
+~$*
 
 # Python
 __pycache__/
 *.py[cod]
+.ruff_cache/
 
 # Env
 .env
+*.zip
