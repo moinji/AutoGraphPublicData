@@ -1,0 +1,21 @@
+version: 1
+updated: 2026-09-03
+
+datasets:
+  - {id: accounting, path: datasets/accounting, tables: 10, documents: 10, status: structure-ready}
+  - {id: bootcamp, path: datasets/bootcamp, tables: 10, documents: 5, status: structure-ready}
+  - {id: clinical, path: datasets/clinical, tables: 16, documents: 4, status: structure-ready}
+  - {id: ecommerce, path: datasets/ecommerce, tables: 12, documents: 13, status: structure-ready}
+  - {id: education, path: datasets/education, tables: 11, documents: 10, status: structure-ready}
+  - {id: hospital, path: datasets/hospital, tables: 11, documents: 10, status: structure-ready}
+  - {id: hr, path: datasets/hr, tables: 11, documents: 10, status: structure-ready}
+  - {id: insurance, path: datasets/insurance, tables: 12, documents: 10, status: structure-ready}
+  - {id: korean-bookstore, path: datasets/korean-bookstore, tables: 9, documents: 10, status: structure-ready}
+  - {id: stress, path: datasets/stress, tables: 31, documents: 0, status: structure-ready}
+
+publication_policy:
+  personal_data: prohibited
+  customer_data: prohibited
+  credentials: prohibited
+  third_party_license_review: required
+  final_publication_review: required
